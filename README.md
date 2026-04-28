@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/monapdx/awesome-itch.io-games/refs/heads/main/awesome-itch.io-games.png">
 
-[![Submit Game](https://img.shields.io/badge/%F0%9F%95%B9%EF%B8%8FSubmit%20Game-111111?style=for-the-badge)](https://github.com/monapdx/awesome-itch.io-games/issues/new?template=submit-an-itch.io-game.yml)
+[![Submit Game](https://img.shields.io/badge/%F0%9F%95%B9%EF%B8%8FSubmit%20Game-111111?style=for-the-badge)](https://github.com/monapdx/awesome-itch.io-games/issues/new?template=submit-an-itch.io-game.yml) [![Arcade](https://img.shields.io/badge/%F0%9F%8E%AEArcade-111111?style=for-the-badge)](#)
 
 ## <img src="https://raw.githubusercontent.com/monapdx/awesome-itch.io-games/refs/heads/main/1770267854824.png" width="25"> Hidden Object
 
