@@ -1,0 +1,140 @@
+name: Submit an itch.io game
+description: Suggest an indie game for this awesome list
+title: "[Game Submission]: "
+labels: ["game-submission", "review-needed"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting a game! Please make sure it fits the spirit of this list: interesting, creative, indie, experimental, weird, beautiful, funny, thoughtful, or otherwise worth discovering.
+
+  - type: input
+    id: game-title
+    attributes:
+      label: Game title
+      placeholder: "Example: A Short Hike"
+    validations:
+      required: true
+
+  - type: input
+    id: itch-url
+    attributes:
+      label: itch.io URL
+      description: Please link directly to the game's itch.io page.
+      placeholder: "https://creator.itch.io/game-name"
+    validations:
+      required: true
+
+  - type: input
+    id: developer
+    attributes:
+      label: Developer / studio name
+      placeholder: "Example: Adamgryu"
+    validations:
+      required: true
+
+  - type: textarea
+    id: game-description
+    attributes:
+      label: Short description
+      description: Briefly describe the game in 1–3 sentences.
+      placeholder: "What is the game about? What does the player do?"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: primary-category
+    attributes:
+      label: Primary category
+      options:
+        - Adventure
+        - Arcade
+        - Browser game
+        - Comedy
+        - Cozy
+        - Experimental
+        - Horror
+        - Interactive fiction
+        - Narrative
+        - Puzzle
+        - RPG
+        - Simulation
+        - Strategy
+        - Visual novel
+        - Weird / surreal
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: tags
+    attributes:
+      label: Tags / keywords
+      description: Add a few tags that describe the game.
+      placeholder: "pixel art, horror, cozy, browser, narrative, weird, short game"
+
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      description: Select the main way people can play it.
+      options:
+        - Browser
+        - Windows
+        - macOS
+        - Linux
+        - Android
+        - iOS
+        - Multiple platforms
+        - Other
+    validations:
+      required: true
+
+  - type: dropdown
+    id: price
+    attributes:
+      label: Price
+      options:
+        - Free
+        - Pay what you want
+        - Paid
+        - Demo available
+        - Other / unsure
+    validations:
+      required: true
+
+  - type: dropdown
+    id: content-rating
+    attributes:
+      label: Content rating
+      description: Help keep the list easy to browse.
+      options:
+        - All ages
+        - Teen-friendly
+        - Mature themes
+        - Horror / disturbing content
+        - NSFW / adult content
+        - Unsure
+    validations:
+      required: true
+
+  - type: textarea
+    id: why-include
+    attributes:
+      label: Why should this game be included?
+      description: Tell us what makes it interesting, memorable, unusual, polished, funny, beautiful, or worth discovering.
+      placeholder: "What makes this game stand out?"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: submitter-info
+    attributes:
+      label: Submission details
+      options:
+        - label: I am the developer or part of the team.
+        - label: I am a fan/player recommending this game.
+        - label: This game is hosted on itch.io.
+          required: true
+        - label: I understand that submission does not guarantee inclusion.
+          required: true
