@@ -43,7 +43,7 @@
 - **[Bees Save Themselves](https://clema.itch.io/ld56)** — Experimental jam project.
 
 
-## Word
+## <img src="https://raw.githubusercontent.com/monapdx/awesome-itch.io-games/refs/heads/main/M.png" height="23"> Word
 
 - **[Obgoose](https://dunkelgrau.itch.io/obgoose)** — Silly arcade chaos centered around a goose.
 - **[ZenWord](https://kobs0.itch.io/zenword-eng)** — Relaxing word-building game.
