@@ -1,8 +1,3 @@
-
-<img src="https://raw.githubusercontent.com/monapdx/awesome-itch.io-games/refs/heads/main/awesome-itch.io-games.png">
-
-[![Submit an Itch.io Game](https://img.shields.io/badge/%F0%9F%94%A5Submit%20Game-111111?style=for-the-badge)](https://github.com/monapdx/awesome-itch.io-games/issues/new?template=submit-an-itch.io-game.yml)
-
 ## <img src="https://raw.githubusercontent.com/monapdx/awesome-itch.io-games/refs/heads/main/1770267854824.png" width="25"> Hidden Object
 
 - **[Hidden in Paris](https://inkolor.itch.io/hidden-in-paris)** — Cozy hidden object game set in Paris.
@@ -26,6 +21,7 @@
 - **[Grow Golf](https://torcado.itch.io/grow-golf)** — Physics-based arcade golf.
 - **[Feedback Rail](https://gr0n.itch.io/feedback-rail)** — Momentum-based rail riding arcade experience.
 - **[Trainsaw](https://profour.itch.io/trainsaw)** — Chaotic train-themed arcade action.
+- **[Skyline Snatcher](https://rabidtomato.itch.io/skyline-snatcher)** — Fast-paced arcade game about grabbing objects across a city skyline.
 
 
 ## <img src="https://raw.githubusercontent.com/monapdx/awesome-itch.io-games/refs/heads/main/noun-joystick-8019434.png" width="20"> Puzzle
@@ -72,6 +68,8 @@
 - **[Voir Dire](https://dmullinsgames.itch.io/voir-dire)** — Legal-themed narrative with decision-making.
 - **[Good Impression](https://ellian.itch.io/good-impression)** — Narrative about social interactions.
 - **[A Thousand Words to Tell I Love You](https://ratart-studio.itch.io/a-thousand-words-to-tell-i-love-you)** — Emotional story about expressing love.
+- **[Confidential Killings](https://branegames.itch.io/confidential-killings)** — Dark, story-driven mystery centered around secretive crimes.
+- **[Letting Go](https://little-moon-games.itch.io/letting-go)** — Emotional narrative about loss and acceptance.
 
 
 ## <img src="https://raw.githubusercontent.com/monapdx/awesome-itch.io-games/refs/heads/main/shop-3d-version.png" width="20"> City Builder
@@ -108,6 +106,8 @@
 - **[My Pixel Playground](https://rsvp-asap.itch.io/my-pixel-playground)** — Sandbox-style creative simulation.
 - **[Tiny Apple](https://docgeraud.itch.io/tiny-apple)** — Minimalist simulation about growing and collecting apples.
 - **[Sky Farm](https://squidcor.itch.io/sky-farm)** — Farming simulation in the sky.
+- **[Calm Before the Bloom](https://iamsebastiandev.itch.io/calm-before-the-bloom)** — Peaceful, atmospheric experience about growth and quiet transformation.
+- **[Smash or Pass (Demo)](https://electroslag.itch.io/smash-or-pass-demo)** — Humorous choice-based game built around quick decisions.
 
 
 ## <img src="https://raw.githubusercontent.com/monapdx/awesome-itch.io-games/refs/heads/main/ace-spades.png" width="22"> Card
@@ -117,3 +117,4 @@
 - **[RPSFP](https://thejoun.itch.io/rpsfp)** — Fast-paced rock-paper-scissors style game.
 - **[Dungeon Deck](https://incinious.itch.io/dungeon-deck)** — Deck-building dungeon crawler.
 - **[PokerDungeon](https://calculus2.itch.io/pokerdungeon)** — Poker mechanics fused with dungeon gameplay.
+- **[Feed the Void](https://barribob.itch.io/feed-the-void)** — Incremental strategy game about consuming and expanding into nothingness.
