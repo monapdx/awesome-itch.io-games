@@ -1,6 +1,8 @@
 
 <img src="https://raw.githubusercontent.com/monapdx/awesome-itch.io-games/refs/heads/main/awesome-itch.io-games.png">
 
+[![Submit an Itch.io Game](https://img.shields.io/badge/%F0%9F%94%A5Submit%20Game-111111?style=for-the-badge)](https://github.com/monapdx/awesome-itch.io-games/issues/new?template=submit-an-itch.io-game.yml)
+
 ## <img src="https://raw.githubusercontent.com/monapdx/awesome-itch.io-games/refs/heads/main/1770267854824.png" width="25"> Hidden Object
 
 - **[Hidden in Paris](https://inkolor.itch.io/hidden-in-paris)** — Cozy hidden object game set in Paris.
