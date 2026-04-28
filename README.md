@@ -12,7 +12,7 @@
 - **[Meow Moments](https://menssana.itch.io/meow-moments)** — Cozy collection of cat-themed mini experiences.
 
 
-## Arcade
+## <img src="https://raw.githubusercontent.com/monapdx/awesome-itch.io-games/refs/heads/main/pac-man.png" width="22"> Arcade
 
 - **[Turnrails](https://kfbstudios.itch.io/turnrails)** — Reflex-based rail switching with increasing speed.
 - **[Plummet Panic](https://ille.itch.io/plummet-panic)** — Fast-paced falling arcade survival game.
