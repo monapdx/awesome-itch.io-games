@@ -87,7 +87,7 @@
 - **[Sort the Court](https://graebor.itch.io/sort-the-court)** — Decision-based kingdom management game.
 
 
-## Cooking
+## <img src="https://raw.githubusercontent.com/monapdx/awesome-itch.io-games/refs/heads/main/1771379232665.png" width="25"> Cooking
 
 - **[Stackaurant](https://iggyc.itch.io/stackaurant)** — Stack ingredients carefully to complete food puzzles.
 - **[Culinarium](https://indieben.itch.io/culinarium)** — Thoughtful cooking puzzles with strategic layering.
