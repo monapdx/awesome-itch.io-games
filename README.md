@@ -108,7 +108,7 @@
 - **[Sky Farm](https://squidcor.itch.io/sky-farm)** — Farming simulation in the sky.
 
 
-## Card
+## <img src="https://raw.githubusercontent.com/monapdx/awesome-itch.io-games/refs/heads/main/ace-spades.png" width="22"> Card
 
 - **[Dungeon Solitaire](https://mush101.itch.io/dungeon-solitaire)** — Solitaire meets dungeon crawling.
 - **[Forward](https://twotinydice.itch.io/forward)** — Minimalist puzzle about movement.
