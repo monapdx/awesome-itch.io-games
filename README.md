@@ -26,7 +26,7 @@
 - **[Trainsaw](https://profour.itch.io/trainsaw)** — Chaotic train-themed arcade action.
 
 
-## Puzzle
+## <img src="https://raw.githubusercontent.com/monapdx/awesome-itch.io-games/refs/heads/main/noun-joystick-8019434.png" width="20"> Puzzle
 
 - **[Scatterhoard](https://pixel-bubble.itch.io/scatterhoard)** — Fast-paced arcade hoarding and dodging chaos.
 - **[Domino Grove](https://ezra-szanton.itch.io/domino-grove)** — Relaxing domino placement puzzles.
