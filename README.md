@@ -1,3 +1,6 @@
+<img src="https://raw.githubusercontent.com/monapdx/awesome-itch.io-games/refs/heads/main/awesome-itch.io-games.png">
+
+
 ## <img src="https://raw.githubusercontent.com/monapdx/awesome-itch.io-games/refs/heads/main/1770267854824.png" width="25"> Hidden Object
 
 - **[Hidden in Paris](https://inkolor.itch.io/hidden-in-paris)** — Cozy hidden object game set in Paris.
