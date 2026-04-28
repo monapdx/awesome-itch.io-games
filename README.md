@@ -72,7 +72,7 @@
 - **[A Thousand Words to Tell I Love You](https://ratart-studio.itch.io/a-thousand-words-to-tell-i-love-you)** — Emotional story about expressing love.
 
 
-## City Builder
+## <img src="https://raw.githubusercontent.com/monapdx/awesome-itch.io-games/refs/heads/main/shop-3d-version.png" width="20"> City Builder
 
 - **[Chibilization](https://jaun.itch.io/chibilization)** — Cute, simplified civilization builder.
 - **[Build-a-Town](https://filgreen3.itch.io/build-a-town)** — Straightforward town construction sim.
