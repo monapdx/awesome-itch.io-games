@@ -28,7 +28,7 @@
 - **[Skyline Snatcher](https://rabidtomato.itch.io/skyline-snatcher)** — Fast-paced arcade game about grabbing objects across a city skyline.
 
 
-## <img src="https://raw.githubusercontent.com/monapdx/awesome-itch.io-games/refs/heads/main/noun-joystick-8019434.png" width="20"> Puzzle
+## <img src="https://raw.githubusercontent.com/monapdx/awesome-itch.io-games/refs/heads/main/joystick-icon.gif" width="30"> Puzzle
 
 - **[Scatterhoard](https://pixel-bubble.itch.io/scatterhoard)** — Fast-paced arcade hoarding and dodging chaos.
 - **[Domino Grove](https://ezra-szanton.itch.io/domino-grove)** — Relaxing domino placement puzzles.
@@ -114,7 +114,7 @@
 - **[Smash or Pass (Demo)](https://electroslag.itch.io/smash-or-pass-demo)** — Humorous choice-based game built around quick decisions.
 
 
-## <img src="https://raw.githubusercontent.com/monapdx/awesome-itch.io-games/refs/heads/main/ace-spades.png" width="22"> Card
+## <img src="https://raw.githubusercontent.com/monapdx/awesome-itch.io-games/refs/heads/main/cards-icon.gif" width="30"> Card
 
 - **[Dungeon Solitaire](https://mush101.itch.io/dungeon-solitaire)** — Solitaire meets dungeon crawling.
 - **[Forward](https://twotinydice.itch.io/forward)** — Minimalist puzzle about movement.
