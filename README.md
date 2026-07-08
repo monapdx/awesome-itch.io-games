@@ -74,6 +74,8 @@
 - **[A Thousand Words to Tell I Love You](https://ratart-studio.itch.io/a-thousand-words-to-tell-i-love-you)** — Emotional story about expressing love.
 - **[Confidential Killings](https://branegames.itch.io/confidential-killings)** — Dark, story-driven mystery centered around secretive crimes.
 - **[Letting Go](https://little-moon-games.itch.io/letting-go)** — Emotional narrative about loss and acceptance.
+- **[The Yearbook](https://thistlestudios.itch.io/the-yearbook)** — A devastating fire tore through Eldermere Preparatory School’s 15-year reunion. The flames are out, but the truth is still out there, buried in the ashes.
+
 
 
 ## <img src="https://raw.githubusercontent.com/monapdx/awesome-itch.io-games/refs/heads/main/shop-3d-version.png" width="20"> City Builder
@@ -112,6 +114,8 @@
 - **[Sky Farm](https://squidcor.itch.io/sky-farm)** — Farming simulation in the sky.
 - **[Calm Before the Bloom](https://iamsebastiandev.itch.io/calm-before-the-bloom)** — Peaceful, atmospheric experience about growth and quiet transformation.
 - **[Smash or Pass (Demo)](https://electroslag.itch.io/smash-or-pass-demo)** — Humorous choice-based game built around quick decisions.
+- **[Pixel Room Creator](https://rainwinther.itch.io/pixelroomcreator)** — Create a cozy reading nook, a retro gaming basement, or a chaotic home office ... it's up to you!
+- **[My Micro Room](https://mkrysht.itch.io/my-micro-room)** — This game is basically a love letter to those flash games from the 2010s. So, relax and decorate your micro room!
 
 
 ## <img src="https://raw.githubusercontent.com/monapdx/awesome-itch.io-games/refs/heads/main/cards-icon.gif" width="30"> Card
