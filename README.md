@@ -43,6 +43,7 @@
 - **[Neubauhaus](https://snekofspice.itch.io/neubauhaus)** — Abstract architectural puzzle experience.
 - **[Riddle Zen](https://admurin.itch.io/riddle-zen)** — Calm, logic-based riddles.
 - **[Bees Save Themselves](https://clema.itch.io/ld56)** — Experimental jam project.
+- **[Meikyu](https://kshift.itch.io/meikyu)** — Daily logic & deduction game.
 
 
 ## <img src="https://raw.githubusercontent.com/monapdx/awesome-itch.io-games/refs/heads/main/M.png" height="23"> Word
